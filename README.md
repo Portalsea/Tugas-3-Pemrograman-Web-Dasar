@@ -1,2 +1,2 @@
-# All_My_Taks
-Repository untuk setiap tugas-tugas dari kampus
+# Tugas 3
+Tugas ke 3 dari mata kuliah Pemrograman Web Dasar
